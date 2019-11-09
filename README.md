@@ -5,6 +5,9 @@ Example Campass With React Native
 - [react-native-sensors](https://react-native-sensors.github.io/docs/Installation.html)
 - [react-native-easy-grid](https://github.com/GeekyAnts/react-native-easy-grid)
 
+# Screenshot
+![arahkiblat](https://github.com/thisWandiPratama/React-Native-Compass/blob/master/arah%20kiblat?raw=true)
+
 # Code
 ```
 import React, {Component} from "react";
